@@ -23,7 +23,9 @@ public class Operation {
 
 		default://else
 			System.out.println("incorrect selection");
+			System.out.println("Hello Java");
 		}
+		
 
 	}
 
